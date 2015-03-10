@@ -1,0 +1,149 @@
+/* 
+    Document   : homepage
+    Created on : Aug 29, 2014, 11:53:12 PM
+    Author     : manojtamilselvan
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+    font-size: 14px;
+}
+
+.navbar-default{
+    background-color: brown;
+    padding-left: 20px;
+    padding-right: 20px;    
+/*    color: #000000;*/
+/*    display: none;  */
+   
+}
+
+.center-layout{
+    font-size: 14px;
+    font-family: "BentonSans",Helvetica,Arial,sans-serif;
+    padding-top: 150px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.glyphicon glyphicon-home
+{
+    padding-right: 2px;
+}
+
+.row{
+    padding-left: 40px;
+    padding-right: 80px;
+/*    padding-top: 50px;*/
+/*    padding-bottom: 50px;*/
+}
+.navbar-default .navbar-nav > li > a{
+/*    color: black;*/
+    font-size:12px;
+    font-family: "BentonSansMedium";
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+
+/*    background-color;*/
+     background-color: orange;
+    text-decoration: none;
+    
+
+}
+
+.navbar-text{
+    
+    padding-left: 87px;
+}
+
+#layer{
+    
+    color: orangered;
+    font-size: 30px;
+    padding-bottom: 50px;
+}
+
+.col-md-3 {
+   text-align: justify;
+}
+
+.text-trans{
+text-transform: capitalize;    
+}
+
+.inputype{
+   
+}
+
+.crimson{
+    color: crimson;
+    font-size: 20px;	
+}
+
+.fix-center{
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+    
+}
+
+.fix-center1{
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+    
+}
+
+#upload-success{
+    
+    
+    float: left;
+    color: black;
+    font-size: 20px;
+    padding-right: 10px;
+}
+
+#upload-highlight{
+    color:chocolate;
+    font-size: 20px;
+    float: left;
+    padding-right: 10px;
+}
+
+#upload-success-cont{
+    font-size: 20px;
+}
+
+.success-next{
+   padding-top: 20px;
+   float: right;
+}
+
+#success{
+    padding-top: 20px;
+}
+
+#content{
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+#showmap{
+    padding-top: 100px;
+    padding-left: 65%;
+    font-size: 20px;
+}
+
+h6{
+    color: crimson;
+}
+
+.london{
+    background-color: orange;
+}
+
